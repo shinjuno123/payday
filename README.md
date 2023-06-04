@@ -17,7 +17,7 @@
 
 ## Overview
 - You can calculate your total wage between 2 dates you setup automatically based on the records you left.
-- When unfair things happened in your work place, You can convert your records to proof file so you can use it.
+- When unfair things happened in your work place, for example when hourly wage is lower than minimum wage or you are less paid than your working hours, You can convert your paycheck records to proof file so you can use it.
 
 
 ## Intro & Preview (Subtitle in it)
